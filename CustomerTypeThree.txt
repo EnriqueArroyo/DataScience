@@ -1,0 +1,4 @@
+CustomerTypeThreeId|Name|Inactive|Guid
+1|Si|False|{DB43ADD7-7770-44FF-8201-CE4CFEC975D2}
+2|No|False|{3549F419-592B-4745-AD3B-BF3993067C40}
+3|No pero en el corto plazo sí|False|{60C79AF7-71BE-4C4D-AD83-B4A9F1EC604D}

@@ -1,0 +1,4 @@
+CustomerStatusId|CustomerStatusName|DateCreated
+1|Pendiente|2019-02-19 10:34:13.407000000
+2|Aprobado|2019-02-19 10:34:13.407000000
+3|Rechazado|2019-02-19 10:34:13.407000000

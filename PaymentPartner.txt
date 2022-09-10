@@ -1,0 +1,2 @@
+PaymentPartnerId|Name|IsActive
+1|Boxful|True

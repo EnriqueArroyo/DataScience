@@ -1,0 +1,5 @@
+CategoryId|Name|IsMultipleSelectable
+1|Modulos|True
+2|Fiscales|True
+3|Integraciones|False
+4|Especiales|False
